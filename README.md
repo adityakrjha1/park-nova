@@ -23,7 +23,7 @@
   <a href="https://smart-parking-frontend-3fll.onrender.com">
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Website-00C9A7?style=for-the-badge" alt="Visit Park Nova" />
   </a>
-  <a href="https://github.com/vikashjha06/park-nova">
+  <a href="https://github.com/adityakrjha1/park-nova">
     <img src="https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github" alt="Park Nova source code" />
   </a>
 </p>
@@ -312,7 +312,7 @@ The following are **planned ideas** and are not implemented in the current versi
 
 ## 👨‍💻 Developer
 
-### Vikash Kumar Jha
+### Aditya[ Kumar Jha
 
 **BCA Student | Aspiring Full Stack Java Developer**
 
@@ -330,8 +330,8 @@ Web Development
 ```
 
 <p align="center">
-  <a href="https://github.com/vikashjha06">
-    <img src="https://img.shields.io/badge/GitHub-vikashjha06-181717?style=for-the-badge&logo=github" alt="Vikash on GitHub" />
+  <a href="https://github.com/adityakrjha1">
+    <img src="https://img.shields.io/badge/GitHub-adityakrjha1-181717?style=for-the-badge&logo=github" alt="Aditya on GitHub" />
   </a>
 </p>
 
@@ -353,7 +353,7 @@ Your support motivates me to build more projects. ❤️
 
 <p align="center">🅿️ <strong>Find parking. Book your spot.</strong></p>
 
-<p align="center"><strong>Made with ❤️ by Vikash Kumar Jha</strong></p>
+<p align="center"><strong>Made with ❤️ by Aditya Kumar Jha</strong></p>
 
 ---
 
