@@ -231,7 +231,7 @@ park-nova/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/vikashjha06/park-nova.git
+git clone https://github.com/adityakrjha1/park-nova.git
 cd park-nova
 ```
 
